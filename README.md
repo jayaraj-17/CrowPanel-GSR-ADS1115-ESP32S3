@@ -1,0 +1,1 @@
+# Crowpanel_ESP32_display_with_ADS1115_ADC_to_I2C_convereter_to_display_GSR_Data
